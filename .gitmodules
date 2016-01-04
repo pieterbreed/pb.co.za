@@ -1,0 +1,3 @@
+[submodule "src/themes/pb.co.za-hugo-theme"]
+	path = src/themes/pb.co.za-hugo-theme
+	url = git@github.com:pieterbreed/pb.co.za-hugo-theme.git
