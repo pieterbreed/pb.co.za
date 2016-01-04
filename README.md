@@ -1,7 +1,7 @@
 pb.co.za
 ========
 
-This repo contains the public source code of my personal website which serves as a public home for my creative output.
+This repo contains the source code of my personal website which serves as a public home for my creative output.
 
 Getting the source code
 -----------------------
