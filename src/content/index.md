@@ -44,12 +44,16 @@ And if I may be so forward. Just for 5 minutes. Just for the rest of this introd
  - Realize, that just for a moment, you are going to have to respect me the same amount, for this to mean anything to either of us.
  - Just be honest with yourself, please.
 
-I am going to point some things out to you, in a sequence that makes sense to me, now, as I sit here. I think these things, if properly framed, can teach all of us. The point of these lessons are to be "better". I want to show you the things I've seen, because they were beautiful to me. This is my objective, just to share my world with you. My world is beautiful to me, I am in love with living in it and I would like to share that with you, so that maybe you will enjoy the story. OK?
+I am going to point some things out to you, in a sequence that makes sense to me, now, as I sit here. You are free to think what you want. 
 
-So. I am going to tell you a story. Your story. The one of your society and the one of your race and of your species. I am going to base this purely on the things that I know you and I share. From there I am going to build out a little and invite you to go along with me, as far as you want.
+I want to show you the things I've seen, because they were beautiful to me. This is my objective, just to share my world with you. My world is beautiful to me, I am in love with living in it and I would like to share that with you, so that maybe you will enjoy the story. OK? I am telling you a story in a funny, little bit weird, me-way. I am being authentic here and I'm going to assume that's OK.
+
+So. I am going to tell you a story. Your story, the way I tell it. (You are free to tell your own stories, I would love to hear them)
+
+The story I'm telling is the one of your society. My society in other words. The one of your race and of your species. I am going to assume that we can get along, while I do this, based purely on the things that I know you and I share. From there on I am going to build out a little and invite you to go along with me, only as far as you want.
 
 ```
-BTW - You may stop right here if this is boring. But if you go on any further, realize that I know you are reading this because you want to. I am going to count on that, so be honest here. If this feels like too much work, all this reading all this nonsense, then really, stop reading right now, you!
+BTW - You may stop right here if this is boring. I mean it. But if you go on any further, realize that I know you are reading this because you want to. I am going to count on that, so be honest here. If this feels like too much work, all this reading all this nonsense, then really, stop reading right now, you!
 
 If you're still here then you are reading this because you want to.
 ```
