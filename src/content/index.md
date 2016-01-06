@@ -1,9 +1,7 @@
-+++
-date = "2016-01-06T05:31:12+02:00"
-draft = true
-title = "My World"
-
-+++
+---
+date: "2016-01-06T05:31:12+02:00"
+title: "My World"
+---
 
 It has come to my attention that an account needs to be written.
 
