@@ -34,11 +34,15 @@ Now. Take a step back with me. Let's look at how we, as a species, are doing.
 And if I may be so forward. Just for 5 minutes. Just for the rest of this introduction, please humour me with the following:
 
  - Just be honest with yourself. 
- - Realize that you don't have to discuss anything in here with anybody if you don't want to.
- - Realize that I respect you to make up your own mind. I am not trying to change what you think. I am not going to try and tell you what to do, who to be or who to be with. Please, you do what you want to.
+ - Realize that you don't have to discuss anything with anybody if you don't want to.
+ - Realize that I respect you to make up your own mind. 
+ - I am not trying to change what you think. 
+ - I am not going to try and tell you what to do
+ - who to be or who to be with. 
+ - Please, you do what you want to do.
  - Realize, that I respect you enough to want to deal with you as an equal.
  - Realize, that just for a moment, you are going to have to respect me the same amount, for this to mean anything to either of us.
- - Just be honest with yourself. 
+ - Just be honest with yourself, please.
 
 I am going to point some things out to you, in a sequence that makes sense to me, now, as I sit here. I think these things, if properly framed, can teach all of us. The point of these lessons are to be "better". I want to show you the things I've seen, because they were beautiful to me. This is my objective, just to share my world with you. My world is beautiful to me, I am in love with living in it and I would like to share that with you, so that maybe you will enjoy the story. OK?
 
