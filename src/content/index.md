@@ -82,8 +82,8 @@ In a run-on sentence, `I'll talk to you directly like this`. See? They're suppos
 
 Now, where were we. Right. I was going to ask you to do some things for me. Just, one human to another. This is what they are:
 
- - leave your belief system behind. I know, that you don't "know" anything about the things we call "belief". 
- - All this religion, all this "but everyone knows that's true" stuff, just don't. Only for as long as you want, as long as I have your respect. Just humour me, and don't pretend you know things that you don't know. You can decide which is which. Human man to whatever-you-identify-as, just don't pretend to yourself that you know things that you don't know.
+ - I *know*, that you don't *know* anything about the things you call *belief*. 
+ - Only for as long as you want, as long as I have your respect. Just humour me, and don't pretend (to yourself) you *know* things that you *don't know*. You can still decide which is which. Human man to whatever-you-identify-as, just don't pretend to yourself that you *know* things that you *don't know*.
  
 ## How many hands to you have? 
 
@@ -99,13 +99,11 @@ See?!
 
 That's what *belief* feels like.
 
-If you are a member of one of the Abrahamic faiths then your cenception of heaven is based on *belief*, and not *knowledge*. 
+If you are a member of one of the Abrahamic faiths then your conception of heaven is based on *belief*, and not *knowledge*. 
 
-Belief and Knowing feel differently in your head. Experiment with this. You can do it. You can tell the difference between what *belief* feels like to you and what *knowing* feels like to you.
+*Belief* and *Knowing* feels differently in your head. Experiment with this, please. You can do it. You can tell the difference between what *belief* feels like to you and what *knowing* feels like to you.
 
 I *believe* that you will do these things with me. I *know* that you can.
-
-```
 
 So. To ask my question again. To drive the point home. While you are reading this, don't confuse knowing with believing, please. I respect both in you. You are free to decide what you put in the one category or what you put in the other category. I don't care about what you decide. I care to ask you to be *believe* me that they are different and for you to *know* the difference.
 
