@@ -53,7 +53,11 @@ So. I am going to tell you a story. Your story, the way I tell it. (You are free
 The story I'm telling is the one of your society. My society in other words. The one of your race and of your species. I am going to assume that we can get along, while I do this, based purely on the things that I know you and I share. From there on I am going to build out a little and invite you to go along with me, only as far as you want.
 
 ```
-BTW - You may stop right here if this is boring. I mean it. But if you go on any further, realize that I know you are reading this because you want to. I am going to count on that, so be honest here. If this feels like too much work, all this reading all this nonsense, then really, stop reading right now, you!
+BTW - You may stop right here if this is boring. I mean it. But if you
+go on any further, realize that I know you are reading this because
+you want to. I am going to count on that, so be honest here. If this
+feels like too much work, all this reading all this nonsense, then
+really, stop reading right now, you!
 
 If you're still here then you are reading this because you want to.
 ```
@@ -63,7 +67,13 @@ If you're still here then you are reading this because you want to.
 Aside: Notation (if this is not clear already)
 
 ```
-This is what I want to use when I am talking directly to the reader. I won't do this often because I want to tell you to please pay attention. I know that when I read, things kind of run into each other and my attention gets diluted a little bit. I get it. It happens. I'll use this "voice" only, and respectfully, when I'm want to say OK, I still love you but you were asleep, that's OK, please be awake now, the next bit will "count".
+This is what I want to use when I am talking directly to the reader. I
+won't do this often because I want to tell you to please pay
+attention. I know that when I read, things kind of run into each other
+and my attention gets diluted a little bit. I get it. It happens. I'll
+use this "voice" only, and respectfully, when I'm want to say OK, I
+still love you but you were asleep, that's OK, please be awake now,
+the next bit will "count".
 ```
 
 In a run-on sentence, `I'll talk to you directly like this`. See? They're supposed to look the same visually, so you can tell, and, not be confused about what I'm trying to do.
