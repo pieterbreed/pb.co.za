@@ -16,6 +16,14 @@ Verifying the authenticity of the content
 I am using git-based GPG signing. You can verify a commit in the normal way, like this:
 
 ```
+$ git log --show-signature -1
+commit 44d137e862a818bf361607403f53876fbd5a461d
+gpg: Signature made Sat Jan  9 15:58:45 2016 SAST using RSA key ID 4A8618BD
+gpg: Good signature from "keybase.io/pieterbreed <pieterbreed@keybase.io>" [ultimate]
+Author: Pieter Breed <github.com@pb.co.za>
+Date:   Sat Jan 9 15:58:28 2016 +0200
+
+    testing GPG git signing
 ```
 
 Content License
