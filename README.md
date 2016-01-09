@@ -10,6 +10,14 @@ The source code for this repo should be available on [github](https://github.com
 
 `git clone --recursive git@github.com:pieterbreed/pb.co.za.git`
 
+Verifying the authenticity of the content
+-----------------------------------------
+
+I am using git-based GPG signing. You can verify a commit in the normal way, like this:
+
+```
+```
+
 Content License
 ---------------
 
